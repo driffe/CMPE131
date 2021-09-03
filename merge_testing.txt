@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 wwelcome to cmpe131 s02
 bye bye bye
+=======
+wwelcome to cmpe131 s02
+bye bye bye
+>>>>>>> new-branch
