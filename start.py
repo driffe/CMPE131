@@ -1,3 +1,3 @@
 def main():
-	print("this is python!")
+	print("thidds is python!")
 
